@@ -1,1 +1,2 @@
-dwdweather2=0.14.0
+dwdweather2==0.14.0
+numpy==1.17
